@@ -7,7 +7,7 @@ var config=require('../config');
 var Logger=require('../logs/index.js');
 var logger=new Logger();
 
-var port=config.get('port')
+var port=3000;//process.env.PORT || config.get('port')
 app.set('port', port );
 
 

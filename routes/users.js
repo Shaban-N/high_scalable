@@ -26,11 +26,16 @@ User.create({name: "Tom", age: 34}, function(err, doc){
 /* GET users listing. */
 router.get('/', function(req, res, next) {
     mongoose.connect("mongodb://localhost:27017/users");
+
     User.find({}, function(err, docs){
         mongoose.disconnect();
+        for (var i=0;i<docs.length;i++)
+            console.log(docs[i])
         if(err) return console.log(err);
         res.render('users',{docs:docs});
+
     });
+
 });
 
 router.delete('/:id',function (req, res, next) {
@@ -47,6 +52,7 @@ router.get('/:id',function(req,res,next){
     User.findById(req.params.id, function(err, doc){
         mongoose.disconnect();
         if(err) return console.log(err);
+
         res.send(doc);
 
     });
@@ -82,6 +88,12 @@ router.post('/',function(req, res){
         console.log(result.id)
         res.send(result);
     });
+
+
 })
+
+
+
+
 
 module.exports = router;

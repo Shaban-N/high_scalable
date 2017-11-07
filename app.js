@@ -4,6 +4,7 @@ var Logger = require('./logs/index.js');
 var index = require('./routes/index');
 var users = require('./routes/users');
 var contacts=require('./routes/contacts');
+var content=require('./content/versions_manager');
 var mongoose = require('mongoose');
 var bodyParser=require('body-parser');
 
@@ -27,6 +28,7 @@ app.use(bodyParser.json());
 app.use('/', index);
 app.use('/users', users);
 app.use('/contacts', contacts);
+app.use('/content',content);
 app.use(require('./logs/rt'));
 
 
