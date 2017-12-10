@@ -8,20 +8,16 @@ var Logger=require('../logs/index.js');
 var logger=new Logger();
 
 var port=3000;//process.env.PORT || config.get('port')
-app.set('port', port );
 
 
-var server = http.createServer(app);
-
-server.listen(port,function(err){
+app.listen(port,function(err){
     if(err) throw err;
     var date=new Date();
     var time = date.getHours()+':'+date.getMinutes()+':'+date.getSeconds();
-
     logger.log(`Running server at port ${port}!`+time)
 });
 
-//server.on('error', onError);
+app.on('error', onError);
 //server.on('listening', onListening);
 
 

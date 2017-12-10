@@ -1,533 +1,508 @@
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/bin/rt.js -- Log -- Reponse time: 54  { url: '/stylesheets/style.css', time: 54 } 
-high-scalable/bin/rt.js -- Log -- Reponse time: 1  { url: '/favicon.ico', time: 1 } 
-high-scalable/bin/rt.js -- Log -- Reponse time: 1  { url: '/dfghj', time: 1 } 
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/bin/www -- Log -- Running server at port 3000!1508944730543
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/bin/www -- Log -- Running server at port 3000!1508944732763
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/bin/www -- Log -- Running server at port 3000!1508944746247
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/bin/www -- Log -- Running server at port 3000!1508944760028
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/bin/www -- Log -- Running server at port 3000!1508944762375
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/bin/www -- Log -- Running server at port 3000!18:28:20
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/bin/www -- Log -- Running server at port 3000!18:28:22
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/bin/www -- Log -- Running server at port 3000!18:28:32
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/bin/www -- Log -- Running server at port 3000!18:28:40
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/bin/www -- Log -- Running server at port 3000!18:28:40
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/bin/www -- Log -- Running server at port 3000!18:28:46
-high-scalable/app.js -- Info -- Hello, world
-high-scalable/bin/www -- Log -- Running server at port 3000!18:28:47
-high-scalable/bin/www -- Log -- Running server at port 3000!18:30:14
-high-scalable/bin/www -- Log -- Running server at port undefined!18:51:54
-high-scalable/bin/www -- Log -- Running server at port 3000!18:53:3
-high-scalable/bin/www -- Log -- Running server at port 3030!19:54:18
-high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/stylesheets/style.css', time: 6 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/favicon.ico', time: 1 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!16:29:14
-high-scalable/logs/rt.js -- Log -- Reponse time: 16  { url: '/stylesheets/style.css', time: 16 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/favicon.ico', time: 1 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/fghjk', time: 2 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!16:29:41
-high-scalable/logs/rt.js -- Log -- Reponse time: 9  { url: '/fghjk', time: 9 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/fghjk', time: 2 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/fghjk', time: 1 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 0  { url: '/fghjk', time: 0 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/fghjk', time: 2 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!16:30:3
-high-scalable/logs/rt.js -- Log -- Reponse time: 23  { url: '/fghjk', time: 23 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css', time: 3 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!18:53:32
-high-scalable/bin/www -- Log -- Running server at port 3030!18:53:44
-high-scalable/bin/www -- Log -- Running server at port 3030!18:54:14
-high-scalable/bin/www -- Log -- Running server at port 3030!18:54:50
-high-scalable/bin/www -- Log -- Running server at port 3030!18:57:1
-high-scalable/bin/www -- Log -- Running server at port 3030!18:57:29
-high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/stylesheets/style.css', time: 5 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/stylesheets/style.css', time: 2 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 0  { url: '/stylesheets/style.css', time: 0 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!18:58:40
-high-scalable/bin/www -- Log -- Running server at port 3030!18:59:45
-high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css', time: 3 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!19:0:8
-high-scalable/logs/rt.js -- Log -- Reponse time: 11  { url: '/stylesheets/style.css', time: 11 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!19:0:33
-high-scalable/bin/www -- Log -- Running server at port 3030!19:0:46
-high-scalable/bin/www -- Log -- Running server at port 3030!19:0:51
-high-scalable/bin/www -- Log -- Running server at port 3030!19:1:1
-high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/stylesheets/style.css', time: 4 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!19:6:16
-high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css', time: 3 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!19:7:37
-high-scalable/bin/www -- Log -- Running server at port 3030!12:6:0
-high-scalable/bin/www -- Log -- Running server at port 3030!15:49:51
-high-scalable/bin/www -- Log -- Running server at port 3030!15:50:4
-high-scalable/bin/www -- Log -- Running server at port 3030!15:50:35
-high-scalable/logs/rt.js -- Log -- Reponse time: 562  { url: '/stylesheets/style.css', time: 562 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!15:54:48
-high-scalable/bin/www -- Log -- Running server at port 3030!15:58:35
-high-scalable/bin/www -- Log -- Running server at port 3030!15:58:36
-high-scalable/bin/www -- Log -- Running server at port 3030!16:1:7
-high-scalable/bin/www -- Log -- Running server at port 3030!16:2:10
-high-scalable/bin/www -- Log -- Running server at port 3030!16:3:13
-high-scalable/bin/www -- Log -- Running server at port 3030!16:11:12
-high-scalable/bin/www -- Log -- Running server at port 3030!16:11:31
-high-scalable/bin/www -- Log -- Running server at port 3030!16:12:28
-high-scalable/bin/www -- Log -- Running server at port 3030!16:14:33
-high-scalable/bin/www -- Log -- Running server at port 3030!16:14:36
-high-scalable/bin/www -- Log -- Running server at port 3030!16:14:36
-high-scalable/bin/www -- Log -- Running server at port 3030!16:14:47
-high-scalable/bin/www -- Log -- Running server at port 3030!16:15:33
-high-scalable/bin/www -- Log -- Running server at port 3030!16:15:34
-high-scalable/bin/www -- Log -- Running server at port 3030!16:15:34
-high-scalable/bin/www -- Log -- Running server at port 3030!16:15:43
-high-scalable/bin/www -- Log -- Running server at port 3030!16:15:44
-high-scalable/bin/www -- Log -- Running server at port 3030!16:16:21
-high-scalable/bin/www -- Log -- Running server at port 3030!16:16:27
-high-scalable/bin/www -- Log -- Running server at port 3030!16:17:27
-high-scalable/bin/www -- Log -- Running server at port 3030!16:17:28
-high-scalable/bin/www -- Log -- Running server at port 3030!16:17:31
-high-scalable/bin/www -- Log -- Running server at port 3030!16:17:43
-high-scalable/bin/www -- Log -- Running server at port 3030!16:17:48
-high-scalable/bin/www -- Log -- Running server at port 3030!16:18:25
-high-scalable/bin/www -- Log -- Running server at port 3030!16:18:26
-high-scalable/bin/www -- Log -- Running server at port 3030!16:18:45
-high-scalable/bin/www -- Log -- Running server at port 3030!16:22:54
-high-scalable/bin/www -- Log -- Running server at port 3030!16:24:12
-high-scalable/bin/www -- Log -- Running server at port 3030!16:24:45
-high-scalable/bin/www -- Log -- Running server at port 3030!16:25:5
-high-scalable/bin/www -- Log -- Running server at port 3030!16:25:29
-high-scalable/bin/www -- Log -- Running server at port 3030!16:25:46
-high-scalable/bin/www -- Log -- Running server at port 3030!16:25:57
-high-scalable/logs/rt.js -- Log -- Reponse time: 18  { url: '/users', time: 18 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!16:26:18
-high-scalable/logs/rt.js -- Log -- Reponse time: 16  { url: '/users', time: 16 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!16:26:54
-high-scalable/logs/rt.js -- Log -- Reponse time: 56  { url: '/users', time: 56 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!16:27:20
-high-scalable/bin/www -- Log -- Running server at port 3030!16:33:36
-high-scalable/bin/www -- Log -- Running server at port 3030!16:37:40
-high-scalable/bin/www -- Log -- Running server at port 3030!16:37:40
-high-scalable/bin/www -- Log -- Running server at port 3030!16:37:41
-high-scalable/bin/www -- Log -- Running server at port 3030!16:37:41
-high-scalable/bin/www -- Log -- Running server at port 3030!16:37:42
-high-scalable/bin/www -- Log -- Running server at port 3030!16:39:43
-high-scalable/bin/www -- Log -- Running server at port 3030!16:39:45
-high-scalable/bin/www -- Log -- Running server at port 3030!16:42:51
-high-scalable/bin/www -- Log -- Running server at port 3030!16:43:19
-high-scalable/bin/www -- Log -- Running server at port 3030!16:43:19
-high-scalable/bin/www -- Log -- Running server at port 3030!16:43:20
-high-scalable/bin/www -- Log -- Running server at port 3030!16:43:20
-high-scalable/bin/www -- Log -- Running server at port 3030!16:44:3
-high-scalable/bin/www -- Log -- Running server at port 3030!16:44:10
-high-scalable/bin/www -- Log -- Running server at port 3030!16:48:14
-high-scalable/bin/www -- Log -- Running server at port 3030!16:51:2
-high-scalable/bin/www -- Log -- Running server at port 3030!16:53:6
-high-scalable/bin/www -- Log -- Running server at port 3030!16:55:27
-high-scalable/bin/www -- Log -- Running server at port 3030!17:15:40
-high-scalable/bin/www -- Log -- Running server at port 3030!17:16:5
-high-scalable/bin/www -- Log -- Running server at port 3030!17:16:17
-high-scalable/bin/www -- Log -- Running server at port 3030!17:16:34
-high-scalable/bin/www -- Log -- Running server at port 3030!17:16:42
-high-scalable/bin/www -- Log -- Running server at port 3030!17:16:56
-high-scalable/logs/rt.js -- Log -- Reponse time: 34  { url: '/users', time: 34 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!17:26:25
-high-scalable/logs/rt.js -- Log -- Reponse time: 37  { url: '/users', time: 37 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!17:26:48
-high-scalable/bin/www -- Log -- Running server at port 3030!17:27:54
-high-scalable/bin/www -- Log -- Running server at port 3030!17:35:53
-high-scalable/bin/www -- Log -- Running server at port 3030!17:36:2
-high-scalable/bin/www -- Log -- Running server at port 3030!17:36:56
-high-scalable/bin/www -- Log -- Running server at port 3030!17:42:9
-high-scalable/bin/www -- Log -- Running server at port 3030!17:42:20
-high-scalable/bin/www -- Log -- Running server at port 3030!17:43:2
-high-scalable/bin/www -- Log -- Running server at port 3030!17:44:41
-high-scalable/bin/www -- Log -- Running server at port 3030!17:45:22
-high-scalable/bin/www -- Log -- Running server at port 3030!17:45:27
-high-scalable/bin/www -- Log -- Running server at port 3030!17:47:50
-high-scalable/bin/www -- Log -- Running server at port 3030!17:48:56
-high-scalable/bin/www -- Log -- Running server at port 3030!17:49:24
-high-scalable/bin/www -- Log -- Running server at port 3030!17:49:33
-high-scalable/bin/www -- Log -- Running server at port 3030!18:15:38
-high-scalable/bin/www -- Log -- Running server at port 3030!18:17:50
-high-scalable/bin/www -- Log -- Running server at port 3030!18:19:0
-high-scalable/bin/www -- Log -- Running server at port 3030!18:19:28
-high-scalable/bin/www -- Log -- Running server at port 3030!18:21:26
-high-scalable/bin/www -- Log -- Running server at port 3030!18:22:34
-high-scalable/logs/rt.js -- Log -- Reponse time: 54  { url: '/stylesheets/style.css', time: 54 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!18:23:15
-high-scalable/bin/www -- Log -- Running server at port 3030!18:23:55
-high-scalable/bin/www -- Log -- Running server at port 3030!18:24:22
-high-scalable/bin/www -- Log -- Running server at port 3030!18:24:54
-high-scalable/bin/www -- Log -- Running server at port 3030!18:26:31
-high-scalable/bin/www -- Log -- Running server at port 3030!18:28:8
-high-scalable/bin/www -- Log -- Running server at port 3030!18:30:13
-high-scalable/bin/www -- Log -- Running server at port 3030!18:37:36
-high-scalable/logs/rt.js -- Log -- Reponse time: 31  { url: '/stylesheets/style.css', time: 31 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!18:38:16
-high-scalable/bin/www -- Log -- Running server at port 3030!18:40:57
-high-scalable/bin/www -- Log -- Running server at port 3030!18:41:20
-high-scalable/bin/www -- Log -- Running server at port 3030!18:41:58
-high-scalable/bin/www -- Log -- Running server at port 3030!18:42:21
-high-scalable/bin/www -- Log -- Running server at port 3030!18:42:36
-high-scalable/bin/www -- Log -- Running server at port 3030!18:42:56
-high-scalable/bin/www -- Log -- Running server at port 3030!18:43:41
-high-scalable/logs/rt.js -- Log -- Reponse time: 18  { url: '/users', time: 18 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css', time: 3 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!18:44:6
-high-scalable/bin/www -- Log -- Running server at port 3030!18:45:14
-high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/stylesheets/style.css', time: 6 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!18:45:36
-high-scalable/bin/www -- Log -- Running server at port 3000!18:49:55
-high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/stylesheets/style.css', time: 4 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/favicon.ico', time: 4 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:50:51
-high-scalable/bin/www -- Log -- Running server at port 3000!18:55:43
-high-scalable/logs/rt.js -- Log -- Reponse time: 35  { url: '/stylesheets/style.css', time: 35 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/favicon.ico', time: 1 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/stylesheets/style.css', time: 1 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:57:34
-high-scalable/bin/www -- Log -- Running server at port 3000!18:57:41
-high-scalable/bin/www -- Log -- Running server at port 3000!18:58:6
-high-scalable/bin/www -- Log -- Running server at port 3000!18:58:14
-high-scalable/bin/www -- Log -- Running server at port 3000!18:58:44
-high-scalable/bin/www -- Log -- Running server at port 3000!18:58:51
-high-scalable/bin/www -- Log -- Running server at port 3000!18:59:25
-high-scalable/bin/www -- Log -- Running server at port 3000!18:59:49
-high-scalable/bin/www -- Log -- Running server at port 3000!19:0:43
-high-scalable/bin/www -- Log -- Running server at port 3000!19:2:23
-high-scalable/bin/www -- Log -- Running server at port 3000!19:4:14
-high-scalable/logs/rt.js -- Log -- Reponse time: 21  { url: '/users', time: 21 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!19:4:49
-high-scalable/bin/www -- Log -- Running server at port 3000!19:5:18
-high-scalable/bin/www -- Log -- Running server at port 3000!19:5:21
-high-scalable/bin/www -- Log -- Running server at port 3000!19:12:30
-high-scalable/bin/www -- Log -- Running server at port 3000!19:12:45
-high-scalable/bin/www -- Log -- Running server at port 3000!19:13:6
-high-scalable/bin/www -- Log -- Running server at port 3000!19:13:34
-high-scalable/logs/rt.js -- Log -- Reponse time: 81  { url: '/stylesheets/style.css', time: 81 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!16:8:42
-high-scalable/bin/www -- Log -- Running server at port 3000!16:9:18
-high-scalable/bin/www -- Log -- Running server at port 3000!16:9:34
-high-scalable/bin/www -- Log -- Running server at port 3000!16:9:58
-high-scalable/bin/www -- Log -- Running server at port 3000!16:50:4
-high-scalable/bin/www -- Log -- Running server at port 3000!16:51:39
-high-scalable/bin/www -- Log -- Running server at port 3000!16:55:2
-high-scalable/bin/www -- Log -- Running server at port 3000!17:2:22
-high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/routes/users.js', time: 5 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/routes/users.js', time: 1 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/stylesheets/style.css', time: 2 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!17:2:46
-high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/routes/users.js', time: 4 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/routes/users.js', time: 1 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!17:3:9
-high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/routes/users.js', time: 3 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/routes/users.js', time: 2 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!17:3:40
-high-scalable/bin/www -- Log -- Running server at port 3000!17:3:57
-high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/routes/users.js', time: 4 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/routes/users.js', time: 1 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!17:5:13
-high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/routes/users.js', time: 5 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/routes/users.js', time: 1 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!17:6:40
-high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/home/nadia/Documents/high_scalable/routesusers.js',
-  time: 3 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/home/nadia/Documents/high_scalable/routesusers.js',
-  time: 1 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!17:6:51
-high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/home/nadia/Documents/high_scalable/routes/users.js',
+high-scalable/bin/www -- Log -- Running server at port 3000!20:47:58
+high-scalable/logs/rt.js -- Log -- Reponse time: 7  { url: '/stylesheets/style.css',
+  status: [Function: status],
+  time: 7 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!14:5:46
+high-scalable/logs/rt.js -- Log -- Reponse time: 31  { url: '/stylesheets/style.css',
+  status: [Function: status],
+  time: 31 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!14:24:2
+high-scalable/logs/rt.js -- Log -- Reponse time: 27  { url: '/', reqTime: 1512822249688, status: 304, time: 27 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 26  { url: '/stylesheets/style.css',
+  reqTime: 1512822249750,
+  status: 200,
+  time: 26 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 37  { url: '/', reqTime: 1512822278921, status: 200, time: 37 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 38  { url: '/', reqTime: 1512822293166, status: 200, time: 38 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 20  { url: '/', reqTime: 1512822302401, status: 304, time: 20 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 103  { url: '/59fada2d93fce3249262214f',
+  reqTime: 1512822307716,
+  status: 200,
+  time: 103 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 111  { url: '/', reqTime: 1512826291678, status: 200, time: 111 } 
+Object.<anonymous> (/home/nadia/Documents/high_scalable/bin/www:8:12) -- Log -- Running server at port 3000!15:33:55
+Object.<anonymous> (/home/nadia/Documents/high_scalable/logs/rt.js:2:14) -- Log -- Reponse time: 76  { url: '/', reqTime: 1512826440947, status: 200, time: 76 } 
+Object.<anonymous> (/home/nadia/Documents/high_scalable/bin/www:8:12) -- Log -- Running server at port 3000!15:52:46
+Object.<anonymous> (/home/nadia/Documents/high_scalable/bin/www:8:12) -- Log -- Running server at port 3000!15:53:33
+Object.<anonymous> (/home/nadia/Documents/high_scalable/bin/www:8:12) -- Log -- Running server at port 3000!15:54:29
+Object.<anonymous> (/home/nadia/Documents/high_scalable/bin/www:8:12) -- Log -- Running server at port 3000!16:4:1
+Object.<anonymous> (/home/nadia/Documents/high_scalable/routes/users.js:5:12) -- Log -- Time: 1512828247298Req: /
+Object.<anonymous> (/home/nadia/Documents/high_scalable/routes/users.js:5:12) -- Log -- Time: 1512828285319Req: /
+Object.<anonymous> (/home/nadia/Documents/high_scalable/bin/www:8:12) -- Log -- Running server at port 3000!16:6:7
+Object.<anonymous> (/home/nadia/Documents/high_scalable/bin/www:8:12) -- Log -- Running server at port 3000!16:10:2
+high-scalable/bin/www -- Log -- Running server at port 3000!16:50:31
+high-scalable/bin/www -- Log -- Running server at port 3000!16:52:7
+high-scalable/logs/rt.js -- Log -- Reponse time: 33  { url: '/', reqTime: 1512831135692, status: 304, time: 33 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/stylesheets/style.css',
+  reqTime: 1512831135762,
+  status: 304,
+  time: 6 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 36  { url: '/', reqTime: 1512831147904, status: 200, time: 36 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 36  { url: '/', reqTime: 1512832134007, status: 200, time: 36 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 15  { url: '/', reqTime: 1512832135448, status: 304, time: 15 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 15  { url: '/', reqTime: 1512832139856, status: 304, time: 15 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 15  { url: '/', reqTime: 1512832391889, status: 200, time: 15 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 521  { url: '/59f9ec6b41dbdb1bd447fc5b',
+  reqTime: 1512832407931,
+  status: 200,
+  time: 521 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 8  { url: '/59f9efb08d13b21d3510b350',
+  reqTime: 1512832411080,
+  status: 200,
+  time: 8 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 38  { url: '/', reqTime: 1512832503601, status: 200, time: 38 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!17:33:49
+high-scalable/bin/www -- Log -- Running server at port 3000!17:35:59
+high-scalable/bin/www -- Log -- Running server at port 3000!17:37:34
+high-scalable/bin/www -- Log -- Running server at port 3000!17:38:38
+high-scalable/logs/rt.js -- Log -- Reponse time: 23  { url: '/', reqTime: '17:38:42', status: 304, time: 23 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/stylesheets/style.css',
+  reqTime: '17:38:42',
+  status: 304,
+  time: 5 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 46  { url: '/users', reqTime: '17:38:44', status: 200, time: 46 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 32  { url: '/users', reqTime: '17:38:49', status: 200, time: 32 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!17:42:3
+high-scalable/logs/rt.js -- Log -- Reponse time: 29  { url: '/', reqTime: '17:42:7', status: 304, time: 29 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/stylesheets/style.css',
+  reqTime: '17:42:7',
+  status: 304,
+  time: 4 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 33  { url: '/users', reqTime: '17:42:9', status: 200, time: 33 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!17:42:54
+high-scalable/logs/rt.js -- Log -- Reponse time: 56  { url: '/users', reqTime: '17:42:59', status: 200, time: 56 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 37  { url: '/users', reqTime: '17:43:1', status: 200, time: 37 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 21  { url: '/users', reqTime: '17:45:13', status: 304, time: 21 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!17:45:18
+high-scalable/logs/rt.js -- Log -- Reponse time: 26  { url: '/', reqTime: '17:45:23', status: 304, time: 26 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/stylesheets/style.css',
+  reqTime: '17:45:23',
+  status: 304,
+  time: 5 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 35  { url: '/users', reqTime: '17:45:24', status: 200, time: 35 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 43  { url: '/', reqTime: '17:45:56', status: 200, time: 43 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 8  { url: '/stylesheets/style.css',
+  reqTime: '17:45:56',
+  status: 200,
+  time: 8 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 24  { url: '/users', reqTime: '17:45:59', status: 200, time: 24 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 30  { url: '/', reqTime: '17:46:9', status: 304, time: 30 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/stylesheets/style.css',
+  reqTime: '17:46:9',
+  status: 304,
   time: 2 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/home/nadia/Documents/high_scalable/routes/users.js',
+high-scalable/logs/rt.js -- Log -- Reponse time: 11  { url: '/users', reqTime: '17:46:11', status: 304, time: 11 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!17:48:31
+high-scalable/logs/rt.js -- Log -- Reponse time: 23  { url: '/', reqTime: '17:48:35', status: 304, time: 23 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/stylesheets/style.css',
+  reqTime: '17:48:35',
+  status: 304,
+  time: 6 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!17:49:2
+high-scalable/logs/rt.js -- Log -- Reponse time: 38  { url: '/users', reqTime: '17:49:3', status: 500, time: 38 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 45  { url: '/users', reqTime: '17:49:12', status: 500, time: 45 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 31  { url: '/users', reqTime: '17:50:16', status: 500, time: 31 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 20  { url: '/users', reqTime: '17:50:19', status: 500, time: 20 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/', reqTime: '17:50:21', status: 304, time: 4 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/stylesheets/style.css',
+  reqTime: '17:50:21',
+  status: 304,
+  time: 4 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 36  { url: '/users', reqTime: '17:50:22', status: 500, time: 36 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/', reqTime: '17:50:28', status: 304, time: 2 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/stylesheets/style.css',
+  reqTime: '17:50:28',
+  status: 304,
+  time: 2 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 18  { url: '/users', reqTime: '17:50:30', status: 500, time: 18 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!18:21:42
+high-scalable/logs/rt.js -- Log -- Reponse time: 395  { url: '/', reqTime: '18:21:55', status: 304, time: 395 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 156  { url: '/stylesheets/style.css',
+  reqTime: '18:21:55',
+  status: 304,
+  time: 156 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 36  { url: '/favicon.ico',
+  reqTime: '18:21:55',
+  status: 404,
+  time: 36 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 56  { url: '/users', reqTime: '18:21:57', status: 500, time: 56 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/', reqTime: '18:22:0', status: 304, time: 2 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/stylesheets/style.css',
+  reqTime: '18:22:0',
+  status: 304,
   time: 1 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!17:7:5
-high-scalable/bin/www -- Log -- Running server at port 3000!17:47:10
-high-scalable/bin/www -- Log -- Running server at port 3000!17:47:40
-high-scalable/bin/www -- Log -- Running server at port 3000!17:48:13
-high-scalable/bin/www -- Log -- Running server at port 3000!17:48:29
-high-scalable/bin/www -- Log -- Running server at port 3000!17:49:15
-high-scalable/bin/www -- Log -- Running server at port 3000!17:49:17
-high-scalable/bin/www -- Log -- Running server at port 3000!17:52:16
-high-scalable/bin/www -- Log -- Running server at port 3000!17:56:18
-high-scalable/bin/www -- Log -- Running server at port 3000!17:56:45
-high-scalable/bin/www -- Log -- Running server at port 3000!17:56:59
-high-scalable/logs/rt.js -- Log -- Reponse time: 15  { url: '/api/users/user._id', time: 15 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!17:57:32
-high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/api/users/user._id', time: 4 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!17:57:53
-high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/api/users/user._id', time: 3 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!17:58:51
-high-scalable/bin/www -- Log -- Running server at port 3000!17:59:56
-high-scalable/bin/www -- Log -- Running server at port 3000!18:0:34
-high-scalable/bin/www -- Log -- Running server at port 3000!18:2:28
-high-scalable/bin/www -- Log -- Running server at port 3000!18:4:34
-high-scalable/bin/www -- Log -- Running server at port 3000!18:7:29
-high-scalable/bin/www -- Log -- Running server at port 3000!18:8:47
-high-scalable/bin/www -- Log -- Running server at port 3000!18:8:53
-high-scalable/bin/www -- Log -- Running server at port 3000!18:9:30
-high-scalable/bin/www -- Log -- Running server at port 3000!18:17:36
-high-scalable/bin/www -- Log -- Running server at port 3000!18:17:39
-high-scalable/bin/www -- Log -- Running server at port 3000!18:18:41
-high-scalable/bin/www -- Log -- Running server at port 3000!18:18:51
-high-scalable/bin/www -- Log -- Running server at port 3000!18:19:37
-high-scalable/bin/www -- Log -- Running server at port 3000!18:19:42
-high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/api/users/user._id', time: 4 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:20:12
-high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/api/users/user._id', time: 2 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:20:42
-high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/api/users/user._id', time: 4 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:21:9
-high-scalable/bin/www -- Log -- Running server at port 3000!18:21:22
-high-scalable/bin/www -- Log -- Running server at port 3000!18:21:28
-high-scalable/logs/rt.js -- Log -- Reponse time: 7  { url: '/api/users/[object%20Object]', time: 7 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:24:54
-high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/api/users/59f75da29185b211ad4dc970', time: 3 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:27:26
-high-scalable/logs/rt.js -- Log -- Reponse time: 8  { url: '/api/users/59f75da29185b211ad4dc970', time: 8 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:33:20
-high-scalable/bin/www -- Log -- Running server at port 3000!18:33:55
-high-scalable/bin/www -- Log -- Running server at port 3000!18:34:20
-high-scalable/bin/www -- Log -- Running server at port 3000!18:34:36
-high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/api/users/59f8840e1a6c8f1dc05b4903', time: 5 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:35:19
-high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/api/users/59f8840e1a6c8f1dc05b4903', time: 4 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:35:38
-high-scalable/bin/www -- Log -- Running server at port 3000!18:36:27
-high-scalable/bin/www -- Log -- Running server at port 3000!18:36:37
-high-scalable/logs/rt.js -- Log -- Reponse time: 7  { url: '/api/users/59f8840e1a6c8f1dc05b4903', time: 7 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:38:44
-high-scalable/bin/www -- Log -- Running server at port 3000!18:44:20
-high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/api/users/59f75da29185b211ad4dc970', time: 4 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:47:32
-high-scalable/bin/www -- Log -- Running server at port 3000!18:48:14
-high-scalable/logs/rt.js -- Log -- Reponse time: 8  { url: '/api/users/59f75da29185b211ad4dc970', time: 8 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:48:53
-high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/api/users/59f75da29185b211ad4dc970', time: 5 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:49:8
-high-scalable/bin/www -- Log -- Running server at port 3000!18:49:16
-high-scalable/bin/www -- Log -- Running server at port 3000!18:49:40
-high-scalable/logs/rt.js -- Log -- Reponse time: 10  { url: '/api/users/59f75da29185b211ad4dc970', time: 10 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:50:2
-high-scalable/bin/www -- Log -- Running server at port 3000!18:50:26
-high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/api/users/59f75da29185b211ad4dc970', time: 5 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:51:2
-high-scalable/bin/www -- Log -- Running server at port 3000!18:51:15
-high-scalable/bin/www -- Log -- Running server at port 3000!18:52:2
-high-scalable/bin/www -- Log -- Running server at port 3000!18:53:36
-high-scalable/bin/www -- Log -- Running server at port 3000!18:54:12
-high-scalable/bin/www -- Log -- Running server at port 3000!18:54:47
-high-scalable/bin/www -- Log -- Running server at port 3000!18:54:59
-high-scalable/bin/www -- Log -- Running server at port 3000!18:55:17
-high-scalable/bin/www -- Log -- Running server at port 3000!18:55:43
-high-scalable/bin/www -- Log -- Running server at port 3000!18:57:57
-high-scalable/bin/www -- Log -- Running server at port 3000!18:58:41
-high-scalable/bin/www -- Log -- Running server at port 3000!18:59:6
-high-scalable/bin/www -- Log -- Running server at port 3000!19:0:47
-high-scalable/bin/www -- Log -- Running server at port 3000!19:3:18
-high-scalable/bin/www -- Log -- Running server at port 3000!19:7:8
-high-scalable/bin/www -- Log -- Running server at port 3000!19:7:19
-high-scalable/bin/www -- Log -- Running server at port 3000!19:8:54
-high-scalable/bin/www -- Log -- Running server at port 3000!19:9:3
-high-scalable/bin/www -- Log -- Running server at port 3000!19:15:11
-high-scalable/bin/www -- Log -- Running server at port 3000!19:15:22
-high-scalable/bin/www -- Log -- Running server at port 3000!19:16:10
-high-scalable/bin/www -- Log -- Running server at port 3000!19:21:8
-high-scalable/bin/www -- Log -- Running server at port 3000!19:21:37
-high-scalable/bin/www -- Log -- Running server at port 3000!19:22:7
-high-scalable/bin/www -- Log -- Running server at port 3000!19:22:15
-high-scalable/bin/www -- Log -- Running server at port 3000!15:27:34
-high-scalable/logs/rt.js -- Log -- Reponse time: 9  { url: '/favicon.ico', time: 9 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!16:29:13
-high-scalable/bin/www -- Log -- Running server at port 3000!16:32:34
-high-scalable/bin/www -- Log -- Running server at port 3000!16:34:50
-high-scalable/bin/www -- Log -- Running server at port 3000!16:39:22
-high-scalable/bin/www -- Log -- Running server at port 3000!16:42:49
-high-scalable/bin/www -- Log -- Running server at port 3000!16:46:42
-high-scalable/bin/www -- Log -- Running server at port 3000!16:48:5
-high-scalable/bin/www -- Log -- Running server at port 3000!17:5:45
-high-scalable/bin/www -- Log -- Running server at port 3000!17:6:15
-high-scalable/bin/www -- Log -- Running server at port 3000!17:6:54
-high-scalable/bin/www -- Log -- Running server at port 3000!17:6:58
-high-scalable/bin/www -- Log -- Running server at port 3000!17:13:14
-high-scalable/bin/www -- Log -- Running server at port 3000!17:17:10
-high-scalable/bin/www -- Log -- Running server at port 3000!17:17:45
-high-scalable/bin/www -- Log -- Running server at port 3000!17:19:12
-high-scalable/bin/www -- Log -- Running server at port 3000!17:20:44
-high-scalable/bin/www -- Log -- Running server at port 3000!17:21:4
-high-scalable/bin/www -- Log -- Running server at port 3000!17:21:15
-high-scalable/bin/www -- Log -- Running server at port 3000!17:21:36
-high-scalable/bin/www -- Log -- Running server at port 3000!17:21:55
-high-scalable/bin/www -- Log -- Running server at port 3000!17:23:22
-high-scalable/bin/www -- Log -- Running server at port 3000!17:23:43
-high-scalable/bin/www -- Log -- Running server at port 3000!17:23:45
-high-scalable/bin/www -- Log -- Running server at port 3000!17:23:48
-high-scalable/bin/www -- Log -- Running server at port 3000!17:23:55
-high-scalable/bin/www -- Log -- Running server at port 3000!17:24:0
-high-scalable/bin/www -- Log -- Running server at port 3000!17:24:10
-high-scalable/bin/www -- Log -- Running server at port 3000!17:24:36
-high-scalable/bin/www -- Log -- Running server at port 3000!17:24:49
-high-scalable/bin/www -- Log -- Running server at port 3000!17:24:58
-high-scalable/bin/www -- Log -- Running server at port 3000!17:25:42
-high-scalable/bin/www -- Log -- Running server at port 3000!17:25:47
-high-scalable/bin/www -- Log -- Running server at port 3000!17:26:0
-high-scalable/bin/www -- Log -- Running server at port 3000!17:26:7
-high-scalable/bin/www -- Log -- Running server at port 3000!17:27:13
-high-scalable/bin/www -- Log -- Running server at port 3000!17:28:1
-high-scalable/bin/www -- Log -- Running server at port 3000!17:28:3
-high-scalable/bin/www -- Log -- Running server at port 3000!17:41:8
-high-scalable/bin/www -- Log -- Running server at port 3000!17:43:19
-high-scalable/bin/www -- Log -- Running server at port 3000!17:46:51
-high-scalable/bin/www -- Log -- Running server at port 3000!17:52:2
-high-scalable/logs/rt.js -- Log -- Reponse time: 7  { url: '/stylesheets/style.css', time: 7 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/stylesheets/style.css', time: 4 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!18:0:31
-high-scalable/bin/www -- Log -- Running server at port 3000!18:0:47
-high-scalable/bin/www -- Log -- Running server at port 3000!18:0:48
-high-scalable/bin/www -- Log -- Running server at port 3000!18:2:18
-high-scalable/bin/www -- Log -- Running server at port 3000!18:3:9
-high-scalable/bin/www -- Log -- Running server at port 3000!18:14:47
-high-scalable/bin/www -- Log -- Running server at port 3000!18:16:1
-high-scalable/bin/www -- Log -- Running server at port 3000!18:38:26
-high-scalable/bin/www -- Log -- Running server at port 3000!18:41:56
-high-scalable/bin/www -- Log -- Running server at port 3000!18:42:16
-high-scalable/bin/www -- Log -- Running server at port 3000!10:41:17
-high-scalable/bin/www -- Log -- Running server at port 3000!10:44:46
-high-scalable/bin/www -- Log -- Running server at port 3000!10:46:22
-high-scalable/bin/www -- Log -- Running server at port 3000!10:48:32
-high-scalable/bin/www -- Log -- Running server at port 3000!10:56:11
-high-scalable/bin/www -- Log -- Running server at port 3000!10:56:28
-high-scalable/bin/www -- Log -- Running server at port 3000!15:13:17
-high-scalable/bin/www -- Log -- Running server at port 3000!15:14:11
-high-scalable/bin/www -- Log -- Running server at port 3000!15:14:29
-high-scalable/bin/www -- Log -- Running server at port 3000!15:16:29
-high-scalable/bin/www -- Log -- Running server at port 3000!15:18:7
-high-scalable/bin/www -- Log -- Running server at port 3000!15:20:28
-high-scalable/bin/www -- Log -- Running server at port 3000!15:22:36
-high-scalable/bin/www -- Log -- Running server at port 3000!15:24:28
-high-scalable/bin/www -- Log -- Running server at port 3000!15:24:43
-high-scalable/bin/www -- Log -- Running server at port 3000!15:28:5
-high-scalable/bin/www -- Log -- Running server at port 3000!15:33:52
-high-scalable/bin/www -- Log -- Running server at port 3000!15:34:15
-high-scalable/bin/www -- Log -- Running server at port 3000!15:35:36
-high-scalable/bin/www -- Log -- Running server at port 3000!15:38:4
-high-scalable/bin/www -- Log -- Running server at port 3000!15:39:4
-high-scalable/bin/www -- Log -- Running server at port 3000!15:41:47
-high-scalable/bin/www -- Log -- Running server at port 3000!15:41:58
-high-scalable/bin/www -- Log -- Running server at port 3000!15:42:15
-high-scalable/bin/www -- Log -- Running server at port 3000!15:45:4
-high-scalable/bin/www -- Log -- Running server at port 3000!15:46:10
-high-scalable/bin/www -- Log -- Running server at port 3000!15:46:50
-high-scalable/logs/rt.js -- Log -- Reponse time: 28  { url: '/users', time: 28 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!15:48:13
-high-scalable/bin/www -- Log -- Running server at port 3000!15:49:40
-high-scalable/bin/www -- Log -- Running server at port 3000!16:0:53
-high-scalable/bin/www -- Log -- Running server at port 3000!16:3:23
-high-scalable/bin/www -- Log -- Running server at port 3000!16:5:49
-high-scalable/bin/www -- Log -- Running server at port 3000!16:6:38
-high-scalable/bin/www -- Log -- Running server at port 3000!16:7:10
-high-scalable/bin/www -- Log -- Running server at port 3000!16:7:30
-high-scalable/bin/www -- Log -- Running server at port 3000!16:10:46
-high-scalable/bin/www -- Log -- Running server at port 3000!16:11:46
-high-scalable/bin/www -- Log -- Running server at port 3000!16:12:52
-high-scalable/bin/www -- Log -- Running server at port 3000!16:13:19
-high-scalable/bin/www -- Log -- Running server at port 3000!16:14:13
-high-scalable/bin/www -- Log -- Running server at port 3000!16:14:18
-high-scalable/bin/www -- Log -- Running server at port 3000!16:15:9
-high-scalable/bin/www -- Log -- Running server at port 3000!16:15:17
-high-scalable/bin/www -- Log -- Running server at port 3000!16:16:3
-high-scalable/bin/www -- Log -- Running server at port 3000!16:18:55
-high-scalable/bin/www -- Log -- Running server at port 3000!16:19:2
-high-scalable/bin/www -- Log -- Running server at port 3000!16:19:33
-high-scalable/bin/www -- Log -- Running server at port 3000!16:20:51
-high-scalable/bin/www -- Log -- Running server at port 3000!16:20:56
-high-scalable/bin/www -- Log -- Running server at port 3000!16:22:23
-high-scalable/bin/www -- Log -- Running server at port 3000!16:22:54
-high-scalable/bin/www -- Log -- Running server at port 3000!16:23:24
-high-scalable/bin/www -- Log -- Running server at port 3000!16:24:46
-high-scalable/bin/www -- Log -- Running server at port 3000!16:25:26
-high-scalable/bin/www -- Log -- Running server at port 3000!16:26:3
-high-scalable/bin/www -- Log -- Running server at port 3000!16:27:46
-high-scalable/bin/www -- Log -- Running server at port 3000!16:28:44
-high-scalable/bin/www -- Log -- Running server at port 3000!16:30:16
-high-scalable/bin/www -- Log -- Running server at port 3000!16:30:58
-high-scalable/bin/www -- Log -- Running server at port 3000!16:31:59
-high-scalable/bin/www -- Log -- Running server at port 3000!16:32:38
-high-scalable/bin/www -- Log -- Running server at port 3000!16:41:9
-high-scalable/bin/www -- Log -- Running server at port 3000!16:44:5
-high-scalable/bin/www -- Log -- Running server at port 3000!16:45:42
-high-scalable/bin/www -- Log -- Running server at port 3000!16:46:19
-high-scalable/bin/www -- Log -- Running server at port 3000!16:46:19
-high-scalable/bin/www -- Log -- Running server at port 3000!16:48:17
-high-scalable/bin/www -- Log -- Running server at port 3000!16:50:33
-high-scalable/bin/www -- Log -- Running server at port 3000!16:51:15
-high-scalable/bin/www -- Log -- Running server at port 3000!17:16:9
-high-scalable/bin/www -- Log -- Running server at port 3000!17:16:37
-high-scalable/bin/www -- Log -- Running server at port 3000!17:16:55
-high-scalable/bin/www -- Log -- Running server at port 3000!17:17:27
-high-scalable/bin/www -- Log -- Running server at port 3000!17:18:4
-high-scalable/bin/www -- Log -- Running server at port 3000!17:27:46
-high-scalable/bin/www -- Log -- Running server at port 3000!17:28:28
-high-scalable/bin/www -- Log -- Running server at port 3000!17:32:56
-high-scalable/bin/www -- Log -- Running server at port 3000!17:37:16
-high-scalable/bin/www -- Log -- Running server at port 3000!17:37:38
-high-scalable/bin/www -- Log -- Running server at port 3000!17:37:48
-high-scalable/bin/www -- Log -- Running server at port 3000!17:38:10
-high-scalable/bin/www -- Log -- Running server at port 3000!20:44:36
-high-scalable/bin/www -- Log -- Running server at port 3000!20:46:25
-high-scalable/bin/www -- Log -- Running server at port 3000!20:46:30
-high-scalable/bin/www -- Log -- Running server at port 3000!14:26:25
-high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css', time: 3 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!14:30:24
-high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/favicon.ico', time: 3 } 
-high-scalable/bin/www -- Log -- Running server at port 3030!14:31:25
-high-scalable/bin/www -- Log -- Running server at port 3000!14:32:43
-high-scalable/bin/www -- Log -- Running server at port 3000!18:45:40
-high-scalable/bin/www -- Log -- Running server at port 3000!21:36:28
-high-scalable/bin/www -- Log -- Running server at port 3000!21:36:29
-high-scalable/bin/www -- Log -- Running server at port 3000!21:36:29
-high-scalable/bin/www -- Log -- Running server at port 3000!21:36:30
-high-scalable/bin/www -- Log -- Running server at port 3000!21:36:30
-high-scalable/bin/www -- Log -- Running server at port 3000!21:36:31
-high-scalable/bin/www -- Log -- Running server at port 3000!21:37:26
-high-scalable/logs/rt.js -- Log -- Reponse time: 53  { url: '/stylesheets/style.css', time: 53 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/favicon.ico', time: 1 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!21:37:39
-high-scalable/bin/www -- Log -- Running server at port 3000!21:37:54
-high-scalable/bin/www -- Log -- Running server at port 3000!21:37:57
-high-scalable/bin/www -- Log -- Running server at port 3000!21:38:42
-high-scalable/bin/www -- Log -- Running server at port 3000!21:39:1
-high-scalable/bin/www -- Log -- Running server at port 3000!21:39:10
-high-scalable/bin/www -- Log -- Running server at port 3000!21:39:24
-high-scalable/bin/www -- Log -- Running server at port 3000!21:40:1
-high-scalable/bin/www -- Log -- Running server at port 3000!21:40:4
-high-scalable/bin/www -- Log -- Running server at port 3000!21:42:46
-high-scalable/bin/www -- Log -- Running server at port 3000!21:43:9
-high-scalable/bin/www -- Log -- Running server at port 3000!21:44:41
-high-scalable/bin/www -- Log -- Running server at port 3000!21:44:42
-high-scalable/bin/www -- Log -- Running server at port 3000!21:45:54
-high-scalable/bin/www -- Log -- Running server at port 3000!17:13:1
-high-scalable/bin/www -- Log -- Running server at port 3000!17:14:3
-high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/stylesheets/style.css', time: 4 } 
-high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/content', time: 4 } 
-high-scalable/bin/www -- Log -- Running server at port 3000!17:15:57
-high-scalable/bin/www -- Log -- Running server at port 3000!17:15:58
-high-scalable/bin/www -- Log -- Running server at port 3000!17:16:14
-high-scalable/bin/www -- Log -- Running server at port 3000!17:16:19
-high-scalable/bin/www -- Log -- Running server at port 3000!17:16:51
-high-scalable/bin/www -- Log -- Running server at port 3000!17:41:44
-high-scalable/bin/www -- Log -- Running server at port 3000!17:44:21
-high-scalable/bin/www -- Log -- Running server at port 3000!17:44:22
-high-scalable/bin/www -- Log -- Running server at port 3000!17:44:35
-high-scalable/bin/www -- Log -- Running server at port 3000!17:45:10
-high-scalable/bin/www -- Log -- Running server at port 3000!17:46:6
-high-scalable/bin/www -- Log -- Running server at port 3000!17:48:7
-high-scalable/bin/www -- Log -- Running server at port 3000!17:51:40
+high-scalable/logs/rt.js -- Log -- Reponse time: 25  { url: '/users', reqTime: '18:22:2', status: 500, time: 25 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!18:27:10
+high-scalable/logs/rt.js -- Log -- Reponse time: 34  { url: '/users', reqTime: '18:27:13', status: 200, time: 34 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!18:32:58
+high-scalable/logs/rt.js -- Log -- Reponse time: 36  { url: '/users', reqTime: '18:33:4', status: 500, time: 36 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!18:42:44
+high-scalable/logs/rt.js -- Log -- Reponse time: 62  { url: '/users', reqTime: '18:42:49', status: 200, time: 62 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 34  { url: '/users', reqTime: '18:42:53', status: 200, time: 34 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 34  { url: '/users', reqTime: '18:43:31', status: 304, time: 34 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 8  { url: '/users', reqTime: '18:43:33', status: 304, time: 8 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 10  { url: '/users', reqTime: '18:43:34', status: 304, time: 10 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 8  { url: '/users', reqTime: '18:43:34', status: 304, time: 8 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!18:43:40
+high-scalable/logs/rt.js -- Log -- Reponse time: 58  { url: '/users', reqTime: '18:43:45', status: 200, time: 58 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 51  { url: '/users', reqTime: '18:43:49', status: 200, time: 51 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 11  { url: '/users', reqTime: '18:43:57', status: 304, time: 11 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!18:44:31
+high-scalable/logs/rt.js -- Log -- Reponse time: 35  { url: '/', reqTime: '18:44:37', status: 304, time: 35 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/stylesheets/style.css',
+  reqTime: '18:44:37',
+  status: 304,
+  time: 5 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 46  { url: '/users', reqTime: '18:44:40', status: 304, time: 46 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/', reqTime: '18:44:52', status: 304, time: 2 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/stylesheets/style.css',
+  reqTime: '18:44:52',
+  status: 304,
+  time: 2 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!18:45:21
+high-scalable/logs/rt.js -- Log -- Reponse time: 59  { url: '/users', reqTime: '18:45:23', status: 304, time: 59 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 43  { url: '/users/59f9eda29494841c1f18560b',
+  reqTime: '18:45:26',
+  status: 200,
+  time: 43 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/users/5a2ab8f1f90b26506362846c',
+  reqTime: '18:45:37',
+  status: 200,
+  time: 5 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/', reqTime: '18:45:39', status: 304, time: 6 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/stylesheets/style.css',
+  reqTime: '18:45:39',
+  status: 304,
+  time: 5 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/users', reqTime: '18:45:43', status: 200, time: 6 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!18:46:16
+high-scalable/logs/rt.js -- Log -- Reponse time: 66  { url: '/users', reqTime: '18:46:19', status: 304, time: 66 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/', reqTime: '18:46:21', status: 304, time: 3 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css',
+  reqTime: '18:46:21',
+  status: 304,
+  time: 3 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!18:49:51
+high-scalable/bin/www -- Log -- Running server at port 3000!18:55:48
+high-scalable/bin/www -- Log -- Running server at port 3000!18:56:45
+high-scalable/bin/www -- Log -- Running server at port 3000!18:56:56
+high-scalable/logs/rt.js -- Log -- Reponse time: 53  { url: '/users', reqTime: '18:56:57', status: 200, time: 53 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:2:27
+high-scalable/logs/rt.js -- Log -- Reponse time: 55  { url: '/users', reqTime: '19:2:30', status: 304, time: 55 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:4:59
+high-scalable/bin/www -- Log -- Running server at port 3000!19:18:58
+high-scalable/logs/rt.js -- Log -- Reponse time: 46  { url: '/users', reqTime: '19:19:8', status: 200, time: 46 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:19:45
+high-scalable/logs/rt.js -- Log -- Reponse time: 64  { url: '/users', reqTime: '19:19:47', status: 200, time: 64 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:20:41
+high-scalable/logs/rt.js -- Log -- Reponse time: 60  { url: '/users', reqTime: '19:20:43', status: 304, time: 60 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:21:18
+high-scalable/logs/rt.js -- Log -- Reponse time: 31  { url: '/users', reqTime: '19:21:22', status: 200, time: 31 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:21:57
+high-scalable/logs/rt.js -- Log -- Reponse time: 51  { url: '/users', reqTime: '19:22:5', status: 304, time: 51 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 71  { url: '/users', reqTime: '19:22:49', status: 200, time: 71 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 26  { url: '/users/59f9ef9fc8cddb1d048a4066',
+  reqTime: '19:22:52',
+  status: 200,
+  time: 26 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 14  { url: '/', reqTime: '19:22:56', status: 304, time: 14 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/stylesheets/style.css',
+  reqTime: '19:22:56',
+  status: 304,
+  time: 4 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 13  { url: '/users', reqTime: '19:22:58', status: 200, time: 13 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:23:33
+high-scalable/logs/rt.js -- Log -- Reponse time: 45  { url: '/users', reqTime: '19:23:38', status: 304, time: 45 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 46  { url: '/users', reqTime: '19:24:1', status: 200, time: 46 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 29  { url: '/users/5a2bfdf779688c78680d1d74',
+  reqTime: '19:24:7',
+  status: 200,
+  time: 29 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 57  { url: '/users', reqTime: '19:24:11', status: 200, time: 57 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 32  { url: '/users', reqTime: '19:24:22', status: 200, time: 32 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 13  { url: '/users', reqTime: '19:24:46', status: 200, time: 13 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/', reqTime: '19:24:48', status: 304, time: 3 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css',
+  reqTime: '19:24:48',
+  status: 304,
+  time: 3 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 10  { url: '/users', reqTime: '19:24:49', status: 304, time: 10 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:25:2
+high-scalable/logs/rt.js -- Log -- Reponse time: 57  { url: '/users', reqTime: '19:25:3', status: 304, time: 57 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/', reqTime: '19:25:6', status: 304, time: 3 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css',
+  reqTime: '19:25:6',
+  status: 304,
+  time: 3 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:25:42
+high-scalable/logs/rt.js -- Log -- Reponse time: 27  { url: '/', reqTime: '19:25:45', status: 304, time: 27 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/stylesheets/style.css',
+  reqTime: '19:25:45',
+  status: 304,
+  time: 4 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 56  { url: '/users', reqTime: '19:25:47', status: 304, time: 56 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 12  { url: '/users/5a2bfdf779688c78680d1d74',
+  reqTime: '19:25:49',
+  status: 200,
+  time: 12 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 7  { url: '/users', reqTime: '19:26:16', status: 200, time: 7 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:26:20
+high-scalable/logs/rt.js -- Log -- Reponse time: 55  { url: '/users', reqTime: '19:26:23', status: 304, time: 55 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 15  { url: '/users/5a2c1c31ba40901a0caec9d6',
+  reqTime: '19:26:26',
+  status: 200,
+  time: 15 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 10  { url: '/users/5a2c1c46ba40901a0caec9d7',
+  reqTime: '19:26:27',
+  status: 200,
+  time: 10 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 9  { url: '/users', reqTime: '19:26:28', status: 200, time: 9 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 39  { url: '/users', reqTime: '19:26:34', status: 200, time: 39 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:27:40
+high-scalable/logs/rt.js -- Log -- Reponse time: 56  { url: '/users', reqTime: '19:27:44', status: 200, time: 56 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 9  { url: '/users/5a2c1c46ba40901a0caec9d7',
+  reqTime: '19:27:47',
+  status: 200,
+  time: 9 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/', reqTime: '19:28:0', status: 304, time: 6 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css',
+  reqTime: '19:28:0',
+  status: 304,
+  time: 3 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/users', reqTime: '19:28:1', status: 200, time: 6 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:28:15
+high-scalable/logs/rt.js -- Log -- Reponse time: 54  { url: '/users', reqTime: '19:28:20', status: 304, time: 54 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 30  { url: '/users', reqTime: '19:28:26', status: 200, time: 30 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/', reqTime: '19:28:44', status: 304, time: 6 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css',
+  reqTime: '19:28:44',
+  status: 304,
+  time: 3 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:31:52
+high-scalable/logs/rt.js -- Log -- Reponse time: 28  { url: '/', reqTime: '19:31:55', status: 200, time: 28 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/stylesheets/style.css',
+  reqTime: '19:31:55',
+  status: 304,
+  time: 5 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 22  { url: '/users', reqTime: '19:31:56', status: 200, time: 22 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/', reqTime: '19:31:58', status: 304, time: 4 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/stylesheets/style.css',
+  reqTime: '19:31:58',
+  status: 304,
+  time: 2 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 24  { url: '/users', reqTime: '19:31:59', status: 304, time: 24 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/', reqTime: '19:32:2', status: 304, time: 5 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/stylesheets/style.css',
+  reqTime: '19:32:2',
+  status: 304,
+  time: 1 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/', reqTime: '19:32:20', status: 200, time: 6 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/stylesheets/style.css',
+  reqTime: '19:32:20',
+  status: 304,
+  time: 2 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:32:58
+high-scalable/bin/www -- Log -- Running server at port 3000!19:36:49
+high-scalable/bin/www -- Log -- Running server at port 3000!19:37:39
+high-scalable/logs/rt.js -- Log -- Reponse time: 30  { url: '/content', reqTime: '19:37:54', status: 200, time: 30 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:39:3
+high-scalable/logs/rt.js -- Log -- Reponse time: 55  { url: '/content', reqTime: '19:39:7', status: 200, time: 55 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!19:39:47
+high-scalable/bin/www -- Log -- Running server at port 3000!19:47:54
+high-scalable/bin/www -- Log -- Running server at port 3000!19:48:17
+high-scalable/bin/www -- Log -- Running server at port 3000!19:49:50
+high-scalable/bin/www -- Log -- Running server at port 3000!19:51:17
+high-scalable/bin/www -- Log -- Running server at port 3000!19:51:43
+high-scalable/bin/www -- Log -- Running server at port 3000!19:52:20
+high-scalable/logs/rt.js -- Log -- Reponse time: 1259  { url: '/catalog/books',
+  reqTime: '11:57:57',
+  status: 404,
+  time: 1259 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!13:34:52
+high-scalable/logs/rt.js -- Log -- Reponse time: 65  { url: '/', reqTime: '13:35:3', status: 200, time: 65 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 19  { url: '/stylesheets/style.css',
+  reqTime: '13:35:4',
+  status: 200,
+  time: 19 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!13:35:28
+high-scalable/logs/rt.js -- Log -- Reponse time: 29  { url: '/', reqTime: '13:35:34', status: 304, time: 29 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/stylesheets/style.css',
+  reqTime: '13:35:34',
+  status: 304,
+  time: 4 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 80  { url: '/users', reqTime: '13:35:37', status: 200, time: 80 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 180  { url: '/users', reqTime: '13:35:47', status: 200, time: 180 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 73  { url: '/users/5a2c1d3a4680701b0d6a4e7f',
+  reqTime: '13:35:54',
+  status: 200,
+  time: 73 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 9  { url: '/users/5a2d1c132d58ff446ab6f23d',
+  reqTime: '13:35:55',
+  status: 200,
+  time: 9 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 37  { url: '/users', reqTime: '13:35:58', status: 200, time: 37 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 13  { url: '/', reqTime: '13:36:0', status: 304, time: 13 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css',
+  reqTime: '13:36:0',
+  status: 304,
+  time: 3 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 16  { url: '/content', reqTime: '13:36:5', status: 404, time: 16 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!14:15:43
+high-scalable/bin/www -- Log -- Running server at port 3000!14:16:26
+high-scalable/bin/www -- Log -- Running server at port 3000!14:17:22
+high-scalable/logs/rt.js -- Log -- Reponse time: 93  { url: '/content', reqTime: '14:17:27', status: 404, time: 93 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!14:17:50
+high-scalable/bin/www -- Log -- Running server at port 3000!14:47:5
+high-scalable/logs/rt.js -- Log -- Reponse time: 60  { url: '/', reqTime: '14:47:21', status: 200, time: 60 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 92  { url: '/stylesheets/style.css',
+  reqTime: '14:47:21',
+  status: 200,
+  time: 92 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/content', reqTime: '14:47:25', status: 404, time: 5 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!14:48:5
+high-scalable/logs/rt.js -- Log -- Reponse time: 27  { url: '/content', reqTime: '14:49:29', status: 404, time: 27 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!14:50:26
+high-scalable/logs/rt.js -- Log -- Reponse time: 37  { url: '/content', reqTime: '14:50:29', status: 404, time: 37 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!14:51:4
+high-scalable/logs/rt.js -- Log -- Reponse time: 26  { url: '/content', reqTime: '14:51:5', status: 404, time: 26 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/content', reqTime: '14:51:8', status: 404, time: 5 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!14:52:3
+high-scalable/logs/rt.js -- Log -- Reponse time: 43  { url: '/content', reqTime: '14:52:10', status: 404, time: 43 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!14:53:0
+high-scalable/logs/rt.js -- Log -- Reponse time: 35  { url: '/content', reqTime: '14:53:19', status: 200, time: 35 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!14:53:49
+high-scalable/bin/www -- Log -- Running server at port 3000!14:54:59
+high-scalable/bin/www -- Log -- Running server at port 3000!14:55:53
+high-scalable/logs/rt.js -- Log -- Reponse time: 16  { url: '/content', reqTime: '14:55:58', status: 304, time: 16 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 14  { url: '/', reqTime: '14:56:25', status: 304, time: 14 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css',
+  reqTime: '14:56:25',
+  status: 304,
+  time: 3 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 31  { url: '/users', reqTime: '14:56:26', status: 200, time: 31 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 13  { url: '/users/5a2c1cca1179401aaa122b5e',
+  reqTime: '14:56:30',
+  status: 200,
+  time: 13 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 11  { url: '/users', reqTime: '14:56:34', status: 200, time: 11 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/', reqTime: '14:56:36', status: 304, time: 6 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/stylesheets/style.css',
+  reqTime: '14:56:36',
+  status: 304,
+  time: 1 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!15:6:57
+high-scalable/logs/rt.js -- Log -- Reponse time: 27  { url: '/', reqTime: '15:7:2', status: 304, time: 27 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/stylesheets/style.css',
+  reqTime: '15:7:2',
+  status: 304,
+  time: 6 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/stylesheets/style.css',
+  reqTime: '15:8:45',
+  status: 304,
+  time: 2 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!15:15:25
+high-scalable/bin/www -- Log -- Running server at port 3000!15:16:9
+high-scalable/bin/www -- Log -- Running server at port 3000!15:17:8
+high-scalable/logs/rt.js -- Log -- Reponse time: 35  { url: '/', reqTime: '15:17:17', status: 200, time: 35 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 13  { url: '/stylesheets/style.css',
+  reqTime: '15:17:18',
+  status: 200,
+  time: 13 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!15:18:8
+high-scalable/bin/www -- Log -- Running server at port 3000!15:19:7
+high-scalable/bin/www -- Log -- Running server at port 3000!15:20:26
+high-scalable/bin/www -- Log -- Running server at port 3000!15:26:42
+high-scalable/bin/www -- Log -- Running server at port 3000!15:27:4
+high-scalable/bin/www -- Log -- Running server at port 3000!15:28:29
+high-scalable/logs/rt.js -- Log -- Reponse time: 43  { url: '/content', reqTime: '15:28:34', status: 500, time: 43 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!15:29:56
+high-scalable/logs/rt.js -- Log -- Reponse time: 37  { url: '/content', reqTime: '15:29:58', status: 500, time: 37 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/content', reqTime: '15:30:0', status: 500, time: 6 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!15:30:18
+high-scalable/logs/rt.js -- Log -- Reponse time: 33  { url: '/content', reqTime: '15:30:20', status: 500, time: 33 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 10  { url: '/content', reqTime: '15:30:21', status: 500, time: 10 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!15:36:55
+high-scalable/logs/rt.js -- Log -- Reponse time: 38  { url: '/content', reqTime: '15:37:0', status: 404, time: 38 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!15:37:33
+high-scalable/logs/rt.js -- Log -- Reponse time: 19  { url: '/content', reqTime: '15:37:35', status: 404, time: 19 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 7  { url: '/content', reqTime: '15:37:36', status: 404, time: 7 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/content', reqTime: '15:37:37', status: 404, time: 3 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/content', reqTime: '15:37:37', status: 404, time: 1 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/content', reqTime: '15:37:38', status: 404, time: 4 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!15:38:41
+high-scalable/bin/www -- Log -- Running server at port 3000!15:39:7
+high-scalable/bin/www -- Log -- Running server at port 3000!15:40:15
+high-scalable/bin/www -- Log -- Running server at port 3000!15:41:35
+high-scalable/logs/rt.js -- Log -- Reponse time: 85  { url: '/content', reqTime: '15:41:38', status: 200, time: 85 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!15:44:36
+high-scalable/bin/www -- Log -- Running server at port 3000!15:47:27
+high-scalable/logs/rt.js -- Log -- Reponse time: 65  { url: '/content', reqTime: '15:47:31', status: 200, time: 65 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!15:47:45
+high-scalable/bin/www -- Log -- Running server at port 3000!15:48:11
+high-scalable/logs/rt.js -- Log -- Reponse time: 40  { url: '/content', reqTime: '15:48:14', status: 200, time: 40 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 15  { url: '/', reqTime: '15:48:21', status: 200, time: 15 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 10  { url: '/stylesheets/style.css',
+  reqTime: '15:48:21',
+  status: 200,
+  time: 10 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!15:50:47
+high-scalable/logs/rt.js -- Log -- Reponse time: 58  { url: '/users', reqTime: '15:50:49', status: 200, time: 58 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 9  { url: '/', reqTime: '15:50:52', status: 200, time: 9 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 11  { url: '/stylesheets/style.css',
+  reqTime: '15:50:52',
+  status: 200,
+  time: 11 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 28  { url: '/content', reqTime: '15:50:54', status: 200, time: 28 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/', reqTime: '15:50:56', status: 200, time: 3 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 4  { url: '/stylesheets/style.css',
+  reqTime: '15:50:56',
+  status: 200,
+  time: 4 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 7  { url: '/', reqTime: '15:51:34', status: 200, time: 7 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css',
+  reqTime: '15:51:34',
+  status: 200,
+  time: 3 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!15:51:39
+high-scalable/logs/rt.js -- Log -- Reponse time: 49  { url: '/users', reqTime: '15:51:44', status: 200, time: 49 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/', reqTime: '15:51:46', status: 200, time: 5 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 9  { url: '/stylesheets/style.css',
+  reqTime: '15:51:46',
+  status: 200,
+  time: 9 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 17  { url: '/content', reqTime: '15:51:47', status: 200, time: 17 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 1  { url: '/', reqTime: '15:51:48', status: 200, time: 1 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 3  { url: '/stylesheets/style.css',
+  reqTime: '15:51:48',
+  status: 200,
+  time: 3 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 7  { url: '/users', reqTime: '15:51:50', status: 200, time: 7 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/', reqTime: '15:52:17', status: 200, time: 5 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/stylesheets/style.css',
+  reqTime: '15:52:17',
+  status: 200,
+  time: 2 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 6  { url: '/content', reqTime: '15:52:18', status: 200, time: 6 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 5  { url: '/content', reqTime: '15:52:54', status: 200, time: 5 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!16:2:3
+high-scalable/logs/rt.js -- Log -- Reponse time: 26  { url: '/', reqTime: '16:2:11', status: 200, time: 26 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 12  { url: '/stylesheets/style.css',
+  reqTime: '16:2:11',
+  status: 200,
+  time: 12 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 31  { url: '/users', reqTime: '16:2:13', status: 200, time: 31 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/', reqTime: '16:2:14', status: 200, time: 2 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 2  { url: '/stylesheets/style.css',
+  reqTime: '16:2:14',
+  status: 200,
+  time: 2 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 9  { url: '/content', reqTime: '16:2:16', status: 200, time: 9 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 15  { url: '/content', reqTime: '16:3:23', status: 200, time: 15 } 
+high-scalable/bin/www -- Log -- Running server at port 3000!16:3:28
+high-scalable/logs/rt.js -- Log -- Reponse time: 49  { url: '/content', reqTime: '16:3:30', status: 200, time: 49 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 22  { url: '/', reqTime: '16:3:33', status: 200, time: 22 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 10  { url: '/stylesheets/style.css',
+  reqTime: '16:3:33',
+  status: 200,
+  time: 10 } 
+high-scalable/logs/rt.js -- Log -- Reponse time: 11  { url: '/users', reqTime: '16:3:35', status: 200, time: 11 } 

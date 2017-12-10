@@ -4,33 +4,33 @@ var Logger = require('./logs/index.js');
 var index = require('./routes/index');
 var users = require('./routes/users');
 var contacts=require('./routes/contacts');
-var content=require('./content/versions_manager');
+var version=require('./routes/versions');
 var mongoose = require('mongoose');
 var bodyParser=require('body-parser');
 
 
-
 var logger = new Logger();
+
 var app = express();
 
+mongoose.connect("mongodb://localhost:27017/users", {
+  useMongoClient: true
+});
 
+mongoose.Promise = global.Promise;
 
-// view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
+app.use(require('./logs/rt'));
+app.use(express.static(path.join(__dirname, 'public')));
 
-/*
- app.use(express.static(path.join(__dirname, 'public')));
- */
 
 app.use('/', index);
 app.use('/users', users);
 app.use('/contacts', contacts);
-app.use('/content',content);
-app.use(require('./logs/rt'));
-
+app.use('/content',version);
 
 
 // catch 404 and forward to error handler
@@ -39,7 +39,6 @@ app.use(function(req, res, next) {
     err.status = 404;
     next(err);
 });
-
 
 // error handler
 app.use(function(err, req, res, next) {
